@@ -10,15 +10,15 @@ export default function Home() {
     <div className="min-h-screen bg-white text-black">
       <main className="relative mx-auto flex min-h-screen max-w-6xl flex-col justify-between px-4 pb-56 pt-12 sm:px-8 lg:px-16 md:pb-32">
         <section className="w-full max-w-5xl space-y-6 text-left md:-ml-[4vw]">
-          <div className="space-y-4 text-[clamp(2.3rem,8vw,6.4rem)] font-semibold uppercase leading-[0.94] tracking-tight">
-            <span className="block">Allow us to introduce</span>
-            <span className="block">Rumi Wear.</span>
-            <span className="block">We get knocked down</span>
+          <div className="space-y-4 text-[clamp(3rem,10vw,7.5rem)] font-semibold uppercase leading-[0.92] tracking-tight">
+            <span className="block">Allow us to reintroduce ourselves.</span>
             <span className="block">
               <span className="box-decoration-clone bg-[#d9ff00] px-2 py-1 text-black">
-                and we get the fuck back up.
+                Rumi Wear
               </span>
+              , we get knocked down
             </span>
+            <span className="block">and we get the fuck back up.</span>
           </div>
           <p className="text-lg font-medium text-neutral-800">
             The clothing brand for the modern entrepreneur.
